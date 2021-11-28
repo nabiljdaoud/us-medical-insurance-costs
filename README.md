@@ -9,3 +9,5 @@ The code is self-contained in the us-medical-insurance-cost.ipynb file. To run o
 
 ## Feedback
 I welcome feedback on use of data structures especially use of dataclasses and methods used for analysis.
+
+This project is licensed under the terms of the MIT license.
